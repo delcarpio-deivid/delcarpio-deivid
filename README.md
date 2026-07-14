@@ -74,6 +74,4 @@ Egresado de Diseño y Desarrollo de Software en Tecsup, especializado en el cicl
 * Implementación de un ecosistema en tiempo real y alta disponibilidad mediante Firebase.
 
 ---
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=delcarpio-deivid&show_icons=true&theme=radial&hide_border=true&v=1" alt="GitHub Stats" />
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=delcarpio-deivid&show_icons=true&theme=radial&hide_border=true)
