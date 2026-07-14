@@ -9,7 +9,10 @@
   <a href="https://www.linkedin.com/in/deivid-jhon-del-carpio-vilca">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  
+  <br>
+  <a href="https://gitlab.com/delcarpio-deivid">
+    <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
+  </a>
   <br>
   <!-- Aquí puedes subir tu PDF al repositorio y reemplazar "URL_DE_TU_PDF" con el enlace directo -->
   <a href="https://github.com/delcarpio-deivid/delcarpio-deivid/blob/main/CV_Deivid_DelCarpio.pdf">
