@@ -75,5 +75,5 @@ Egresado de Diseño y Desarrollo de Software en Tecsup, especializado en el cicl
 
 ---
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=delcarpio-deivid&show_icons=true&theme=radial&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=delcarpio-deivid&show_icons=true&theme=radial&hide_border=true&v=1" alt="GitHub Stats" />
 </div>
