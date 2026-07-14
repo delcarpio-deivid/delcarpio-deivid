@@ -12,7 +12,7 @@
   
   <br>
   <!-- Aquí puedes subir tu PDF al repositorio y reemplazar "URL_DE_TU_PDF" con el enlace directo -->
-  <a href="URL_DE_TU_PDF">
+  <a href="https://github.com/delcarpio-deivid/delcarpio-deivid/blob/main/CV_Deivid_DelCarpio.pdf">
     <img src="https://img.shields.io/badge/📄_Descargar_CV_PDF-2ea44f?style=for-the-badge" alt="Descargar CV" />
   </a>
 </div>
@@ -74,6 +74,8 @@ Egresado de Diseño y Desarrollo de Software en Tecsup, especializado en el cicl
 * Implementación de un ecosistema en tiempo real y alta disponibilidad mediante Firebase.
 
 ---
+ <!--
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=delcarpio-deivid&show_icons=true&theme=radial&hide_border=true&v=1" alt="GitHub Stats" />
 </div>
+-->
